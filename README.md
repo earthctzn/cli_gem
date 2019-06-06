@@ -1,8 +1,7 @@
 # TheaterEvents
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/theater_events`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem, as the name implies shows a list of theater events going on in your city.
+You can chose an event from the list to see ticket information.
 
 ## Installation
 
@@ -22,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Gets theater show information to your CLI.
 
 ## Development
 
